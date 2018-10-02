@@ -11,7 +11,7 @@ React Pokemon App
 
 ---
 ## Helpful URLs
-- [React Pokemon App](https://ryanpowszok.github.io/react-pokemon-app/)
+- [React Pokemon App](https://ryanpowszok.github.io/react-pokemon)
 
 ---
 ## Project Structure
@@ -64,4 +64,4 @@ Deploys to Github pages.
 
 ---
 
-Project repo [React Pokemon App](https://github.com/ryanpowszok/react-pokemon-app).
+Project repo [React Pokemon App](https://github.com/ryanpowszok/react-pokemon).
