@@ -5,7 +5,7 @@
 
 # Application Specific
 # ----------------------------------------------------------------------------------------------
-/dist
+/build
 
 # Bower / Node / Grunt / SASS
 # @see - http://stackoverflow.com/questions/39990017/should-i-commit-the-yarn-lock-file-and-what-is-it-for
