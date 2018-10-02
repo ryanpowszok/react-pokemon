@@ -21,7 +21,7 @@
     "lint:scripts:fix": "npm run lint:scripts -- --fix",
     "test": "npm run lint && npm run test:unit",
     "test:unit": "jest",
-    "predeploy": "npm run build",
+    "predeploy": "npm run test && npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
