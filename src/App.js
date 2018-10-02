@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
+import PokemonContainer from './components/PokemonContainer';
 
 class App extends Component {
   render() {
     return (
-      <h1>Hello World</h1>
+      <div>
+        <h1>Pokemon App</h1>
+        <PokemonContainer />
+      </div>
     )
   }
 }
