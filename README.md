@@ -22,7 +22,7 @@ project/                  # → Root folder for the project.
 ├── .editorconfig         # → Editor config used for defining indent style/spaces.
 ├── .eslintrc             # → ES Lint configuration file.
 ├── .gitignore            # → Git config file to ignore files and directories.
-├── build/                 # → Built site files.
+├── build/                # → Built site files.
 ├── package.json          # → NPM package configuration file.
 ├── README.md             # → Markdown readme file.
 ├── src/                  # → App source files. Start here.
@@ -39,17 +39,23 @@ For development, you will only need Node.js installed on your environement.
 You should be able to run the following command after the installation procedure
 below.
 
-`$ node --version`
+```
+$ node --version
 v8.12.0
+```
 
-`$ npm --version`
+```
+$ npm --version
 6.4.1
+```
 
 ## Install
 
-`$ git clone https://github.com/ryanpowszok/react-pokemon.git`
-`$ cd PROJECT`
-`$ yarn install`
+```
+$ git clone https://github.com/ryanpowszok/react-pokemon.git
+$ cd PROJECT
+$ yarn install
+```
 
 ## Commands
 
