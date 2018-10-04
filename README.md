@@ -35,8 +35,7 @@ For development, you will only need Node.js installed on your environement.
 
 ### Node
 
-[Node](http://nodejs.org/) is really easy to install & now include [NPM](https://npmjs.org/).
-You should be able to run the following command after the installation procedure
+[Node](http://nodejs.org/) You should be able to run the following command after the installation procedure
 below.
 
 ```
@@ -48,6 +47,9 @@ v8.12.0
 $ npm --version
 6.4.1
 ```
+
+### Yarn (optional)
+[Yarn Installation](https://yarnpkg.com/lang/en/docs/install/) Instructions below use yarn but you can choose to just use npm if you'd like.
 
 ## Install
 
