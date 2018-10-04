@@ -13,7 +13,7 @@ const RandomPokemon = ({dispatch}) => {
           dispatch(addRandomPokemon())
         }}
       >
-        <button className="ui button" type="submit">Add Pokemon</button>
+        <button className="ui button" type="submit">Add Random Pokemon</button>
       </form>
     </div>
   )
